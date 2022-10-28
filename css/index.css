@@ -204,6 +204,9 @@ footer {
     /* gallery section */
     .gallery {
         height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly; 
     }
     
     /* about us section */
